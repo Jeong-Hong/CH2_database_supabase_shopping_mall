@@ -1,0 +1,185 @@
+{
+  "run": "crud-4cf9b9968a",
+  "count": 16,
+  "source": "Actual main.py execution + native scoped PrintWindow screenshots",
+  "capture_input": "scripted non-secret stdin lines; no API mocks",
+  "timezone_runtime": "KST UTC+09:00",
+  "tables": [
+    "user_details",
+    "products",
+    "orders",
+    "order_items"
+  ],
+  "frames": [
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\member-create.png",
+      "name": "member-create",
+      "table": "user_details",
+      "operation": "create",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "9b4c5fb8c8a5479405835414d39c54a2f6a177eac999ee9425d9140f325cfe25"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\member-read.png",
+      "name": "member-read",
+      "table": "user_details",
+      "operation": "read",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "6a477d626ecfb02f64d3d5e5709413aa7597332c397605093c1c7f9b54a58401"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\member-update.png",
+      "name": "member-update",
+      "table": "user_details",
+      "operation": "update",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "2f9c54f69d087df80aa6f5ad18feeb91cfca8bb3c81f74bf60462254aeb10ef0"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\product-create.png",
+      "name": "product-create",
+      "table": "products",
+      "operation": "create",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "113fa7b9ebc867b7850d338c0fd8873021e2f178f36ad3591ce4dcbe19c58c8d"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\product-read.png",
+      "name": "product-read",
+      "table": "products",
+      "operation": "read",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "7842178e22ef706b9739f687fc702881fbcab23a519c9506ecc63a0ff2ec22b4"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\product-update.png",
+      "name": "product-update",
+      "table": "products",
+      "operation": "update",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "fb68f837c0e0352fc6221803ccee7baf5af6e1f27672b48cbe14ef28ca817998"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-create.png",
+      "name": "order-create",
+      "table": "orders",
+      "operation": "create",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "cd0b2464aff0b45656ca090ffe84b907855c22ee83188bef9d3650643a3eed20"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-read.png",
+      "name": "order-read",
+      "table": "orders",
+      "operation": "read",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "1401b1e7e9233c77fa48ee3c1e4766792c29b87188f8b5bd14443ea687f2f1e6"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-update.png",
+      "name": "order-update",
+      "table": "orders",
+      "operation": "update",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "f58debec8f878423be23470152d2ce2373d930218df091d8efa102956d89b930"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-item-create.png",
+      "name": "order-item-create",
+      "table": "order_items",
+      "operation": "create",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "7eb9f14511d5e3b3b4462baaec379b74d0a7f410ed68f00a824b1642777a21cb"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-item-read.png",
+      "name": "order-item-read",
+      "table": "order_items",
+      "operation": "read",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "b8944fe41aa6482ce42e90b22adca40e549b4a25d555fbbca96c03549cb5f15b"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-item-update.png",
+      "name": "order-item-update",
+      "table": "order_items",
+      "operation": "update",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "3accbf5223b73b4f3f41feb7e64facca23bf07b8589b94ef554b4799b3098c1f"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-item-delete.png",
+      "name": "order-item-delete",
+      "table": "order_items",
+      "operation": "delete",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "cf98f4b651b0c6ce66e74af72f7f53cf591c26d445862cebd7bad08f3b67e862"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\order-delete.png",
+      "name": "order-delete",
+      "table": "orders",
+      "operation": "delete",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "d50a87c8f734bd4303fbe57047fb86d8acdf86ac38bd6fea5e6c0f37a33ca6ee"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\product-delete.png",
+      "name": "product-delete",
+      "table": "products",
+      "operation": "delete",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "8ddf7cfd58e4003a8183b4b5cf8c704d4bf3409967110dcdfdbf00eed510d014"
+    },
+    {
+      "file": "Y:\\내 드라이브\\KANT\\shopping-mall-crud\\docs\\screenshots\\crud-4cf9b9968a\\member-delete.png",
+      "name": "member-delete",
+      "table": "user_details",
+      "operation": "delete",
+      "method": "PrintWindow",
+      "width": 1023,
+      "height": 939,
+      "sha256": "0ab106f782a4a2e759e277fef4cfa9380408304750b510a4a85aefd28dccd7ed"
+    }
+  ],
+  "test_row_ids": {
+    "product_id": "e233bfef-99a0-4c00-a232-3b8d1653db24",
+    "order_id": "95e7af7a-4d77-46bc-bdc1-b950c73f9b23",
+    "item_id": "4afdf95c-fbc2-4508-8cbd-f77800e68355"
+  },
+  "test_data_deleted_and_read_back": true,
+  "pre_existing_rows_unchanged": true,
+  "console_exit_code": 0,
+  "foreground_unchanged_at_launch": true,
+  "secret_values_absent_from_console_log": true
+}

@@ -1,0 +1,11 @@
+[project]
+name = "shopping-mall-crud"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "supabase>=2.32.0",
+]
+
